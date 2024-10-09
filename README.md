@@ -25,9 +25,9 @@ print(output.shape)
 
 ## Citation
 
-@article{Ye2024DifferentialTransformer,
-title = {Differential Transformer},
-author = {Tianzhu Ye and Li Dong and Yuqing Xia and Yutao Sun and Yi Zhu and Gao Huang and Furu Wei},
-year = {2024},
-url = {https://arxiv.org/pdf/2410.05258},
-}
+    @article{Ye2024DifferentialTransformer,
+    title = {Differential Transformer},
+    author = {Tianzhu Ye and Li Dong and Yuqing Xia and Yutao Sun and Yi Zhu and Gao Huang and Furu Wei},
+    year = {2024},
+    url = {https://arxiv.org/pdf/2410.05258},
+    }
