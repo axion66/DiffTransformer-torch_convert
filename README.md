@@ -1,6 +1,8 @@
 # DiffTransformer-torch_convert
 
-Turn their differential transformer[https://arxiv.org/pdf/2410.05258] into pytorch-dependent style for better understand
+Turn differential transformer[https://arxiv.org/pdf/2410.05258] into pytorch-dependent style for better understanding
+Currentely not finished with MHA, flash attn, positional encoding, and masking. [TODO]
+Only self attention is supported at this moment.
 
 ### Example
 
